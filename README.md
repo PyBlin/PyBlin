@@ -1,1 +1,1 @@
-https://solved.ac/profile/pyblin
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyblin)](https://solved.ac/pyblin)
